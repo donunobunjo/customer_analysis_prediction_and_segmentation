@@ -1,4 +1,4 @@
-# 🛍️ Mall Customer Segmentation and Spending Behavior Analysis
+# 🛍️ Customer Segmentation and Spending Behavior Analysis
 
 ## 📘 Project Overview
 This project analyzes customer demographics and spending behavior using a dataset containing information about **CustomerID, Gender, Age, Annual Income (k$), and Spending Score (1–100)**.  
