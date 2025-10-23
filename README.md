@@ -77,10 +77,11 @@ Through a blend of **exploratory data analysis (EDA)**, **data visualization**, 
 - **Gender Influence:** Female customers displayed slightly higher spending tendencies than males in this dataset.  
 - **Age Factor:** Younger adults often have higher spending scores, whereas older customers show more conservative spending patterns.  
 - **Customer Segments Identified:**  
-  - 🟢 *Cluster 1:* High-income, high-spending — **Premium customers**.  
-  - 🟣 *Cluster 2:* Low-income, high-spending — **Potential overspenders**.  
-  - 🔵 *Cluster 3:* High-income, low-spending — **Under-engaged premium group**.  
-  - 🟠 *Cluster 4:* Average-income, average-spending — **Majority group**.  
+  - High-income, high-spending — **Premium customers**.  
+  - Low-income, high-spending — **Potential overspenders**.  
+  - High-income, low-spending — **Under-engaged premium group**.  
+  - Average-income, average-spending — **Majority group**.
+  - Low-income, low-spending.  
 
 ---
 
