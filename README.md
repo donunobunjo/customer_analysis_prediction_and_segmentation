@@ -111,9 +111,9 @@ By combining **EDA**, **predictive modeling**, and **unsupervised learning**, th
 
 ## 🧑‍💻 Author
 **Don Unobunjo**  
-Data Analyst | Lecturer | Machine Learning Enthusiast  
+Data Analytics | Machine Learning  | AI Automation | Trainer 
 📍 Abeokuta, Nigeria  
-🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+🔗 [GitHub](https://github.com/donunobunjo) | [LinkedIn](https://www.linkedin.com/in/unobunjo-donS
 
 ---
 
