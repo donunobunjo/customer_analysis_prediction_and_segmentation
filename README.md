@@ -7,6 +7,10 @@ The primary aim is to discover spending trends, identify customer segments, and 
 Through a blend of **exploratory data analysis (EDA)**, **data visualization**, and **machine learning**, this project highlights how factors like income, age, and gender influence spending behavior — and how customers can be grouped into actionable market segments.
 
 ---
+- ### [GitHub](https://github.com/donunobunjo/customer_analysis_prediction_and_segmentation.git)
+- ### [Dataset](https://github.com/donunobunjo/customer_analysis_prediction_and_segmentation/blob/main/Mall_Customers.csv)
+
+---
 
 ## 🎯 Objectives
 - Explore the relationships among **Age**, **Annual Income**, and **Spending Score**.  
